@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MemoryMaster</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
+    <string name="exitbutton">Exit</string>
+    <string name="playbutton">Play</string>
+    <string name="textview">textview</string>
+    <string name="next">Next</string>
+    <string name="restart">Restart</string>
+    <string name="gameover">gameover</string>
+</resources>
